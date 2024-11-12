@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\bin\Debug\net8.0\while.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\bin\Debug\net8.0\while.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\bin\Debug\net8.0\while.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\bin\Debug\net8.0\while.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\bin\Debug\net8.0\while.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\refint\while.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\while.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\nested\while\obj\Debug\net8.0\ref\while.dll
